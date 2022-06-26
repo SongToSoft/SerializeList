@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.exe
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.deps.json
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.runtimeconfig.json
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.dll
+C:\Users\bogda\source\repos\LinkedListSerialize\bin\Debug\netcoreapp3.1\LinkedListSerialize.pdb
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.AssemblyInfo.cs
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.dll
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.pdb
+C:\Users\bogda\source\repos\LinkedListSerialize\obj\Debug\netcoreapp3.1\LinkedListSerialize.genruntimeconfig.cache

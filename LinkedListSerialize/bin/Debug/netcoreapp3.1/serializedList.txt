@@ -1,0 +1,10 @@
+first
+3
+second
+1
+third
+4
+fourth
+-1
+fifth
+-1
